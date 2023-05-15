@@ -1,0 +1,4 @@
+models: 
+  - name: dw_standing_table
+    description: Team ranking
+    

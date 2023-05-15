@@ -1,0 +1,110 @@
+Rk -- Rank
+This is a count of the rows from top to bottom.
+It is recalculated following the sorting of a column.
+Nation -- Nationality of the player.
+First, we check our records in international play at senior level.
+Then youth level.
+Then citizenship presented on wikipedia.
+Finally, we use their birthplace when available.
+Pos -- Position
+Position most commonly played by the player
+GK - Goalkeepers
+DF - Defenders
+MF - Midfielders
+FW - Forwards
+FB - Fullbacks
+LB - Left Backs
+RB - Right Backs
+CB - Center Backs
+DM - Defensive Midfielders
+CM - Central Midfielders
+LM - Left Midfielders
+RM - Right Midfielders
+WM - Wide Midfielders
+LW - Left Wingers
+RW - Right Wingers
+AM - Attacking Midfielders
+Age -- Current age
+Age at season start
+Given on August 1 for winter leagues
+and February 1 for summer leagues.
+Born -- Year of birth
+90s -- 90s Played
+90s played
+Minutes played divided by 90
+Total
+Cmp -- Passes Completed
+Passes Completed
+Att -- Passes Attempted
+Passes Attempted
+Cmp% -- Pass Completion %
+Pass Completion Percentage
+Minimum 30 minutes played per squad game to qualify as a leader
+TotDist -- Total Passing Distance
+Total distance, in yards, that completed passes have traveled in any direction
+PrgDist -- Progressive Passing Distance
+Progressive Distance
+Total distance, in yards, that completed passes have traveled towards the opponent's goal. Note: Passes away from opponent's goal are counted as zero progressive yards.
+Short
+Cmp -- Passes Completed (Short)
+Passes Completed
+Passes between 5 and 15 yards
+Att -- Passes Attempted (Short)
+Passes Attempted
+Passes between 5 and 15 yards
+Cmp% -- Pass Completion % (Short)
+Pass Completion Percentage
+Passes between 5 and 15 yards
+Minimum 30 minutes played per squad game to qualify as a leader
+Medium
+Cmp -- Passes Completed (Medium)
+Passes Completed
+Passes between 15 and 30 yards
+Att -- Passes Attempted (Medium)
+Passes Attempted
+Passes between 15 and 30 yards
+Cmp% -- Pass Completion % (Medium)
+Pass Completion Percentage
+Passes between 15 and 30 yards
+Minimum 30 minutes played per squad game to qualify as a leader
+Long
+Cmp -- Passes Completed (Long)
+Passes Completed
+Passes longer than 30 yards
+Att -- Passes Attempted (Long)
+Passes Attempted
+Passes longer than 30 yards
+Cmp% -- Pass Completion % (Long)
+Pass Completion Percentage
+Passes longer than 30 yards
+Minimum 30 minutes played per squad game to qualify as a leader
+Ast -- Assists
+Assists
+xAG -- Expected Assisted Goals
+xG which follows a pass that assists a shot
+Provided by Opta.
+An underline indicates there is a match that is missing data, but will be updated when available.
+xA -- Expected Assists
+Expected Assists
+The likelihood each completed pass becomes a goal assists
+given the pass type, phase of play, location and distance.
+Provided by Opta.
+An underline indicates there is a match that is missing data, but will be updated when available.
+Minimum 30 minutes played per squad game to qualify as a leader
+A-xAG -- Assists minus Expected Goals Assisted
+Provided by Opta.
+An underline indicates there is a match that is missing data, but will be updated when available.
+KP -- Key Passes
+Passes that directly lead to a shot (assisted shots)
+1/3 -- Passes into Final Third
+Completed passes that enter the 1/3 of the pitch closest to the goal
+Not including set pieces
+PPA -- Passes into Penalty Area
+Completed passes into the 18-yard box
+Not including set pieces
+CrsPA -- Crosses into Penalty Area
+Completed crosses into the 18-yard box
+Not including set pieces
+PrgP -- Progressive Passes
+Progressive Passes
+Completed passes that move the ball towards the opponent's goal line at least 10 yards from its furthest point in the last six passes, or any completed pass into the penalty area. Excludes passes from the defending 40% of the pitch

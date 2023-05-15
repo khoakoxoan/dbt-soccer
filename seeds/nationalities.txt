@@ -1,0 +1,9 @@
+Rk -- Rank
+This is a count of the rows from top to bottom.
+It is recalculated following the sorting of a column.
+Nation -- Nationality of the player.
+First, we check our records in international play at senior level.
+Then youth level.
+Then citizenship presented on wikipedia.
+Finally, we use their birthplace when available.
+Min -- Minutes

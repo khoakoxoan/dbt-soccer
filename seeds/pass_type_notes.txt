@@ -1,0 +1,65 @@
+Nation -- Nationality of the player.
+First, we check our records in international play at senior level.
+Then youth level.
+Then citizenship presented on wikipedia.
+Finally, we use their birthplace when available.
+Pos -- Position
+Position most commonly played by the player
+GK - Goalkeepers
+DF - Defenders
+MF - Midfielders
+FW - Forwards
+FB - Fullbacks
+LB - Left Backs
+RB - Right Backs
+CB - Center Backs
+DM - Defensive Midfielders
+CM - Central Midfielders
+LM - Left Midfielders
+RM - Right Midfielders
+WM - Wide Midfielders
+LW - Left Wingers
+RW - Right Wingers
+AM - Attacking Midfielders
+Age -- Current age
+Age at season start
+Given on August 1 for winter leagues
+and February 1 for summer leagues.
+Born -- Year of birth
+90s -- 90s Played
+90s played
+Minutes played divided by 90
+Att -- Passes Attempted
+Passes Attempted
+Pass Types
+Live -- Live-ball passes
+Live-ball passes
+Dead -- Dead-ball passes
+Dead-ball passes
+Includes free kicks, corner kicks, kick offs, throw-ins and goal kicks
+FK -- Passes from Free Kicks
+Passes attempted from free kicks
+TB -- Through Balls
+Completed pass sent between back defenders into open space
+Sw -- Switches
+Passes that travel more than 40 yards of the width of the pitch
+Crs -- Crosses
+Crosses
+TI -- Throw-Ins taken
+Throw-Ins taken
+CK -- Corner Kicks
+Corner Kicks
+Corner Kicks
+In -- Inswinging Corner Kicks
+Inswinging Corner Kicks
+Out -- Outswinging Corner Kicks
+Outswinging Corner Kicks
+Str -- Straight Corner Kicks
+Straight Corner Kicks
+Outcomes
+Cmp -- Passes Completed
+Passes Completed
+Off -- Passes Offside
+Offsides
+Blocks -- Passes Blocked
+Blocked by the opponent who was standing it the path

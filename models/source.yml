@@ -1,0 +1,20 @@
+version: 2
+
+sources:
+  - name: epl
+    database: epl  
+    schema: raw
+    tables:
+      - name: standing_table
+      - name: fixtures
+      - name: gk_stat
+      - name: miscellaneous_stat
+      - name: Nationalities
+      - name: pass_type
+      - name: passing
+      - name: player_stat
+      - name: possession
+      - name: shooting
+      - name: shot_creation
+      - name: tackles
+      - name: wages
