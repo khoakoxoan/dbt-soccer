@@ -1,0 +1,8 @@
+models: 
+  - name: stg_nationalities
+    description: Player's nationalities
+    columns:
+      - name:  nation_id
+        tests:
+          - unique
+          - not_null
